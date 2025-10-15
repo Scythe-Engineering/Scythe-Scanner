@@ -1,0 +1,17 @@
+{
+  "names": [
+    "ignore.json",
+    "LICENSE",
+    ".venv",
+    ".git",
+    "clone_dir",
+    "build",
+    "dist",
+    "pyproject.toml",
+    "README.md",
+    "scanner_metadata",
+    "config.json"
+  ],
+  "regexes": [
+  ]
+}
